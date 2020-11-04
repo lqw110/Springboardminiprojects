@@ -8,7 +8,7 @@ The below list shows the mini projects I finished during the course and the two 
 | Data wrangling|JSON manipulation        | [Link](https://github.com/lqw110/Springboardminiprojects/tree/master/5.2%20JSON%20Based%20Data%20Exercise) |
 |               | SQL Practice            | [Link](https://github.com/lqw110/Springboardminiprojects/tree/master/5.3%20SQL%20Practice) |
 |               |API practice-pulling data from the Qunadl API and analyzing financial market data  |[Link](https://github.com/lqw110/Springboardminiprojects/tree/master/5.4%20API%20Mini-Project)|
-| Statistical Methods for Data Analysis|Frequentist Statistics       | [Link](https://github.com/lqw110/Springboardminiprojects/tree/master/8.1frequntist) |
+| Statistical Methods for Data Analysis|Frequentist Statistics       | [Link](https://github.com/lqw110/Springboardminiprojects/tree/master/8.1%20Frequentist%20Inference) |
 |               | Bootstrap Inference            | [Link](https://github.com/lqw110/Springboardminiprojects/tree/master/8.2%20Bootstrap%20Statistics) |
 |               |Bayesian Inference |[Link](https://github.com/lqw110/Springboardminiprojects/tree/master/8.3%20Bayesian%20Inference)|
 | Machine Learning |Linear Regression Using Boston Housing Data Set |[Link](https://github.com/lqw110/Springboardminiprojects/tree/master/10.1%20Linear%20Regression%20Using%20Boston%20Housing%20Data%20Set)|
